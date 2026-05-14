@@ -9,6 +9,6 @@ Inspired by the images on the Serious Eats recipe which have a "Credit:" line un
 
 ## Credits
 
-- [Mapo Tofu from Chinese Cooking Demystified] (https://youtu.be/AujuLHK3hvs)
-- [Tostones from Serious Eats] (https://www.seriouseats.com/tostones-recipe-8782460)
-- [Pad kra pao from Hot Thai Kitchen] (https://hot-thai-kitchen.com/pad-kra-pao-beef/)
+- [Mapo Tofu from Chinese Cooking Demystified](https://youtu.be/AujuLHK3hvs)
+- [Tostones from Serious Eats](https://www.seriouseats.com/tostones-recipe-8782460)
+- [Pad kra pao from Hot Thai Kitchen](https://hot-thai-kitchen.com/pad-kra-pao-beef/)
